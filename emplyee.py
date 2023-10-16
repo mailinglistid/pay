@@ -2,6 +2,8 @@
 first_name = input("Enter employee's first name: ")
 last_name = input("Enter employee's last name: ")
 age = input("Enter employee's age: ")
+salary =  input("Enter employee's Salary: ")
+
 
 # Print employee details
 print("\nEmployee Details:")
