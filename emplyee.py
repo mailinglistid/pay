@@ -10,4 +10,4 @@ print("\nEmployee Details:")
 print("First Name: " + first_name)
 print("Last Name: " + last_name)
 print("Age: " + age)
-
+print ("Salary:" +salary)
